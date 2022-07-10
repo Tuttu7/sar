@@ -86,3 +86,13 @@ Linux 5.13.0-51-generic (Tuttu) 	04/07/22 	_x86_64_	(4 CPU)
 11:02:01 AM IST   2097148         0      0.00         0      0.00
 11:04:01 AM IST   2097148         0      0.00         0      0.000
 ```
+
+|  Option  | Description|
+---------|-----------
+-f   |  Extract records from filename 
+-t |  When reading data from a daily data file, indicate that sar should display the timestamps in the original locale time of the data file creator. Without this option, the sar command displays the timestamps in the user's locale time.
+-r |  Report memory utilization statistics. 
+-q |  Report queue length and load averages.
+-B  |  Report paging statistics.
+-W |  Report swapping statistics.
+-S   |  Report swap space utilization statistics. 
