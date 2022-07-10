@@ -46,7 +46,7 @@ Linux 5.13.0-51-generic (Tuttu) 	04/07/22 	_x86_64_	(4 CPU)
 10:56:01 AM IST      0.33     41.25    108.70      0.00    559.96      0.00      0.00      0.00      0.00
 ```
 
-#### Swap wiiting
+#### Swap writing
 
 ```
 tuttu@Tuttu:/var/log/sysstat$ sar -t -W -f  sa04
